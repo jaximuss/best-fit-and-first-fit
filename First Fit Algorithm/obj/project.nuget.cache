@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bB0CM97U4sPjVor0AdVWYqkPLJ6HjXZaFtuwnZgjhDBi0TR64STMBDan44acfNUxnwFOq5rbEeY+n858XwDxYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obi\\source\\repos\\First Fit Algorithm\\First Fit Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

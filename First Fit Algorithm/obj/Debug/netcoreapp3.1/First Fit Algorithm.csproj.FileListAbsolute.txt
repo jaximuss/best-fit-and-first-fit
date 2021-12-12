@@ -1,0 +1,14 @@
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.csproj.AssemblyReference.cache
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.AssemblyInfoInputs.cache
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.AssemblyInfo.cs
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\obi\source\repos\First Fit Algorithm\bin\Debug\netcoreapp3.1\First Fit Algorithm.exe
+C:\Users\obi\source\repos\First Fit Algorithm\bin\Debug\netcoreapp3.1\First Fit Algorithm.deps.json
+C:\Users\obi\source\repos\First Fit Algorithm\bin\Debug\netcoreapp3.1\First Fit Algorithm.runtimeconfig.json
+C:\Users\obi\source\repos\First Fit Algorithm\bin\Debug\netcoreapp3.1\First Fit Algorithm.runtimeconfig.dev.json
+C:\Users\obi\source\repos\First Fit Algorithm\bin\Debug\netcoreapp3.1\First Fit Algorithm.dll
+C:\Users\obi\source\repos\First Fit Algorithm\bin\Debug\netcoreapp3.1\First Fit Algorithm.pdb
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.dll
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.pdb
+C:\Users\obi\source\repos\First Fit Algorithm\obj\Debug\netcoreapp3.1\First Fit Algorithm.genruntimeconfig.cache
